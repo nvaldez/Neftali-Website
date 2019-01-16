@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages testing to see how this works
+THIS WEBSITE IS UNDER CONSTRUCTION
+
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nvaldez/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
